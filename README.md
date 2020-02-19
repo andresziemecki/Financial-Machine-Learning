@@ -15,6 +15,9 @@ Real time stcok quotes and the osibility to play with ficticious money for backt
 https://docs.alpaca.markets/
 
 Real time stcok quotes and historical data information.
-https://www.worldtradingdata.com/documentation -> max daily request: 250
-https://docs.intrinio.com/documentation/api_v2/limits -> 100 request per second (ta barato este)
-https://www.alphavantage.co -> max daily request 500. We can ask up to 20 yearss for historical data
+
+https://www.worldtradingdata.com/documentation -> max daily request: 250.
+
+https://docs.intrinio.com/documentation/api_v2/limits -> 100 request per second (ta barato este).
+
+https://www.alphavantage.co -> max daily request 500. We can ask up to 20 yearss for historical data.
