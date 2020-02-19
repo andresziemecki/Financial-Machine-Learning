@@ -11,7 +11,7 @@ This is a Financial Machine Learning Project for trading.
 
 ## Financial APIs <a name = "apis"></a>
 
-Real time stcok quotes and the osibility to play with ficticious money for backtesting.
+Real time stcok quotes and the posibility to play with ficticious money for backtesting.
 https://docs.alpaca.markets/
 
 Real time stcok quotes and historical data information.
