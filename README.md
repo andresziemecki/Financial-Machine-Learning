@@ -10,13 +10,19 @@
 
 This is a Financial Machine Learning Project for trading.
 
-## Financial APIs <a name = "apis"></a>
+## Financial APIs to request stock quotes and historical data information <a name = "apis"></a>
 
-Real time stcok quotes and historical data information.
-https://docs.alpaca.markets/ -> posibility to play with ficticious money for backtesting.
-https://www.worldtradingdata.com/documentation -> max daily request: 250
-https://docs.intrinio.com/documentation/api_v2/limits -> 100 request per min
-https://www.alphavantage.co -> max daily request 500. We can ask up to 20 yearss for historical data
+
+| API        | Positive things           | Negative things  |
+| ------------- |:-------------:| -----:|
+| [Alpaca](https://docs.alpaca.markets/)      | Rate limit: 200/min<br>Play with fake money | - |
+| [WordTradingData](https://www.worldtradingdata.com/documentation)      | -      |  - |
+| [Intrinio](https://docs.intrinio.com/documentation/api_v2/limits) | - | - |
+| [Alpha Vantage](https://www.alphavantage.co) | - | - |
+| [IEX Cloud](https://www.iexcloud.io/api/#introduction) | Rate limit: 1/10ms | - |
+| [Polygon](https://www.polygon.io) | - | - |
+| [Traider](https://www.developer.traider.com) | - | - |
+
 
 ## Resources <a name =  "res"></a>
 
